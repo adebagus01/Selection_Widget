@@ -19,12 +19,12 @@
 ![2](https://user-images.githubusercontent.com/55870942/135961293-2e45bd7e-294c-4627-a766-6657342ae4dd.JPG)
 ![3](https://user-images.githubusercontent.com/55870942/135961295-829beebf-5a90-4b2b-92d8-034a978a26b0.JPG)
 
-##Spinner
+## Spinner
 ![1](https://user-images.githubusercontent.com/55870942/135961620-f905c7bd-c8bf-42a4-ab66-06a01d428180.JPG)
 ![2](https://user-images.githubusercontent.com/55870942/135961626-b323f7fa-c181-4b93-be44-2631edafd458.JPG)
 ![3](https://user-images.githubusercontent.com/55870942/135961630-bcbda91b-74f2-4a2e-9127-69f3ed4edf71.JPG)
 
-##AutoComplateText
+## AutoComplateText
 ![1](https://user-images.githubusercontent.com/55870942/135961662-e1f1cdea-1661-4b00-b3b3-8d8c504388dc.JPG)
 ![2](https://user-images.githubusercontent.com/55870942/135961669-d762a881-eb37-42f2-82e9-70183403b08c.JPG)
 
